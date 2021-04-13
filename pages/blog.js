@@ -2,7 +2,7 @@ import Layout from "../components/layout"
 
 const Blog = () => (
     <Layout>
-        <h1>Blogaaa</h1>
+        <h1>Blogaaasdaa</h1>
 
 
     </Layout>
